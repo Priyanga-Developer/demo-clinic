@@ -1,0 +1,283 @@
+{
+  "business": {
+    "name": "HealthCare Physio Center",
+    "tagline": "PHYSIOTHERAPY CLINIC",
+    "phone": "+91 90000 00000",
+    "phoneHref": "tel:+919000000000",
+    "rating": 4.8,
+    "reviewCount": 85,
+    "workingHours": "Open Daily",
+    "closingTime": "8:30 PM",
+    "address": {
+      "line1": "12, Green Park Road",
+      "line2": "Near City Hospital",
+      "area": "Indira Nagar",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "pincode": "560038"
+    },
+    "googleMapsUrl": "https://www.google.com/maps",
+    "googleMapsEmbed": "https://www.google.com/maps"
+  },
+  "seo": {
+    "title": "HealthCare Physio Center | Bengaluru",
+    "description": "Professional physiotherapy treatments for pain relief, injury recovery, and rehabilitation."
+  },
+  "colors": {
+    "primary": "#1E4D8C",
+    "secondary": "#2BB7A3",
+    "background": "#F8FAFC",
+    "accent": "#E5E7EB",
+    "foreground": "#1F2937"
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "About",
+        "href": "#about"
+      },
+      {
+        "label": "Treatments",
+        "href": "#treatments"
+      },
+      {
+        "label": "Why Us",
+        "href": "#why-us"
+      },
+      {
+        "label": "Testimonials",
+        "href": "#testimonials"
+      },
+      {
+        "label": "Location",
+        "href": "#location"
+      }
+    ],
+    "ctaLabel": "Book Appointment"
+  },
+  "hero": {
+    "badge": "4.8 Rating · 85 Patients",
+    "headline": "Professional Physiotherapy for",
+    "headlineHighlight": "Pain-Free Living",
+    "subheadline": "Recover faster with expert physiotherapy treatments designed to improve mobility and restore strength.",
+    "primaryCTA": "Book Appointment",
+    "secondaryCTA": "Call Now",
+    "trustPoints": [
+      "Experienced Therapists",
+      "Modern Equipment",
+      "Flexible Appointments"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d",
+    "imageAlt": "Physiotherapy treatment session"
+  },
+  "about": {
+    "sectionLabel": "About Our Clinic",
+    "headline": "Dedicated to Your",
+    "headlineHighlight": "Health & Recovery",
+    "paragraphs": [
+      "HealthCare Physio Center provides personalized physiotherapy treatments designed to help patients recover from injuries and chronic pain conditions.",
+      "Our experienced therapists focus on improving mobility, reducing pain, and helping patients return to their normal daily activities."
+    ],
+    "highlights": [
+      "Modern therapy equipment",
+      "Experienced physiotherapists",
+      "Clean and comfortable environment",
+      "Affordable treatment options",
+      "Customized recovery programs"
+    ],
+    "stats": [
+      {
+        "value": "80+",
+        "label": "Happy Patients"
+      },
+      {
+        "value": "4.8★",
+        "label": "Average Rating"
+      },
+      {
+        "value": "5+",
+        "label": "Years Experience"
+      }
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b",
+    "imageAlt": "Physiotherapy clinic interior",
+    "ctaLabel": "Schedule Consultation"
+  },
+  "conditions": {
+    "sectionLabel": "Conditions We Treat",
+    "headline": "Comprehensive",
+    "headlineHighlight": "Physiotherapy Care",
+    "subheadline": "Our clinic provides treatment for a wide range of musculoskeletal and rehabilitation conditions.",
+    "items": [
+      {
+        "icon": "Activity",
+        "title": "Back Pain Treatment",
+        "description": "Therapy programs designed to relieve back pain and improve spinal mobility."
+      },
+      {
+        "icon": "Hand",
+        "title": "Shoulder Rehabilitation",
+        "description": "Targeted physiotherapy for shoulder injuries and mobility issues."
+      },
+      {
+        "icon": "Heart",
+        "title": "Post-Surgery Rehab",
+        "description": "Structured rehabilitation programs to support recovery after surgery."
+      },
+      {
+        "icon": "Bone",
+        "title": "Knee Rehabilitation",
+        "description": "Recovery programs for knee injuries and joint conditions."
+      },
+      {
+        "icon": "Dumbbell",
+        "title": "Sports Injury Therapy",
+        "description": "Specialized care for athletes recovering from injuries."
+      },
+      {
+        "icon": "Zap",
+        "title": "Muscle Pain Therapy",
+        "description": "Effective treatment for muscle stiffness and joint discomfort."
+      }
+    ]
+  },
+  "approach": {
+    "sectionLabel": "Our Treatment Process",
+    "headline": "A Step-by-Step",
+    "headlineHighlight": "Recovery Plan",
+    "subheadline": "Our treatment process ensures personalized care and measurable recovery results.",
+    "steps": [
+      {
+        "num": "01",
+        "title": "Initial Assessment",
+        "description": "Detailed evaluation of your pain points and mobility limitations."
+      },
+      {
+        "num": "02",
+        "title": "Customized Treatment",
+        "description": "A therapy plan designed specifically for your condition."
+      },
+      {
+        "num": "03",
+        "title": "Advanced Therapy",
+        "description": "Use of modern physiotherapy techniques and equipment."
+      },
+      {
+        "num": "04",
+        "title": "Exercise Guidance",
+        "description": "Guided exercises to rebuild strength and flexibility."
+      },
+      {
+        "num": "05",
+        "title": "Progress Monitoring",
+        "description": "Regular reviews to ensure effective recovery."
+      }
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1559757175-5700dde675bc",
+    "imageAlt": "Physiotherapy treatment process"
+  },
+  "whyChooseUs": {
+    "sectionLabel": "Why Choose Us",
+    "headline": "What Makes Our",
+    "headlineHighlight": "Clinic Different",
+    "subheadline": "We focus on patient comfort, effective treatment, and faster recovery outcomes.",
+    "features": [
+      {
+        "icon": "Shield",
+        "title": "Experienced Therapists",
+        "description": "Qualified physiotherapists providing professional treatment."
+      },
+      {
+        "icon": "Cpu",
+        "title": "Modern Equipment",
+        "description": "Latest physiotherapy tools for effective recovery."
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Comfortable Clinic",
+        "description": "Clean and welcoming clinic environment."
+      },
+      {
+        "icon": "Star",
+        "title": "Trusted Care",
+        "description": "Highly rated clinic trusted by many satisfied patients."
+      }
+    ]
+  },
+  "testimonials": {
+    "sectionLabel": "Patient Reviews",
+    "headline": "What Patients",
+    "headlineHighlight": "Say",
+    "items": [
+      {
+        "name": "Arjun Kumar",
+        "role": "Back Pain Patient",
+        "initials": "AK",
+        "review": "Excellent physiotherapy treatment. My back pain improved within a few sessions."
+      },
+      {
+        "name": "Sneha Reddy",
+        "role": "Shoulder Injury",
+        "initials": "SR",
+        "review": "Very friendly staff and effective therapy sessions."
+      },
+      {
+        "name": "Rahul Mehta",
+        "role": "Post Surgery Recovery",
+        "initials": "RM",
+        "review": "Professional care and great recovery support."
+      }
+    ]
+  },
+  "location": {
+    "sectionLabel": "Visit Our Clinic",
+    "headline": "Conveniently Located",
+    "headlineHighlight": "in Bengaluru",
+    "subheadline": "Easy to reach with flexible appointment timings."
+  },
+  "finalCTA": {
+    "sectionLabel": "Start Your Recovery",
+    "headline": "Book Your Consultation Today",
+    "subtext": "Take the first step toward a pain-free life with professional physiotherapy care.",
+    "primaryCTA": "Book Appointment",
+    "secondaryCTA": "Call Now"
+  },
+  "footer": {
+    "description": "Professional physiotherapy services for pain relief, injury recovery, and rehabilitation.",
+    "quickLinks": [
+      {
+        "label": "Home",
+        "href": "#home"
+      },
+      {
+        "label": "About",
+        "href": "#about"
+      },
+      {
+        "label": "Treatments",
+        "href": "#treatments"
+      },
+      {
+        "label": "Why Choose Us",
+        "href": "#why-us"
+      },
+      {
+        "label": "Testimonials",
+        "href": "#testimonials"
+      },
+      {
+        "label": "Location",
+        "href": "#location"
+      }
+    ],
+    "treatments": [
+      "Back Pain Therapy",
+      "Shoulder Rehabilitation",
+      "Post-Surgery Recovery",
+      "Knee Rehabilitation",
+      "Sports Injury Treatment",
+      "Muscle & Joint Therapy"
+    ],
+    "copyright": "© 2025 HealthCare Physio Center. All rights reserved."
+  }
+}
